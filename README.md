@@ -1,5 +1,5 @@
 # kaggle
-I participate in Kaggle competitions when I have the time. They have been and continue to be great learning opportunities, but they are also very humbling. In this repository are a series of iPython notebooks that I use to work through these data problems. I don't do a lot of them, but I hope to increase the number over time.
+I participate in Kaggle competitions when I have the time. They have been and continue to be great learning opportunities, but they are also very humbling. In this repository are a series of iPython notebooks that I use to work through these data problems. I don't do a lot of these competitions, but I hope to increase the number over time.
 
 # 2015
 
